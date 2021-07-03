@@ -2,9 +2,22 @@
 
 Released: Julho 2017
 
-<a name="Description"></a>
+<a name="Estado Atual (To Do)"></a>
 
-## Description
+## Estado Atual
+
+Abaixo o escopo das  funcionalidades que espero desenvolver:
+
+ABA no Webtrees - OK
+Conectar WS MyHeritage - Pendente
+Recuperar e tratar dados - Pendente
+Tela  comparando os registros - Pendente
+Gravaçao - Pendente
+Envio de Dados ao MyHeritage - Pendente
+
+<a name="Descrição"></a>
+
+## Descrição
 
 A idéia é  criar uma  aba onde possamos através do WebService disponibilizado pela MyHeritage conectar e baixar os dados de lá.
 
@@ -14,7 +27,7 @@ A idéia é  criar uma  aba onde possamos através do WebService disponibilizado
 
 Este arquivo contém as seguintes seções:
 
-*   [Description](#Description)
+*   [Descrição](#Descrição)
 *   [Contents](#Contents)
 *   [Requisitos](#Require)
 *   [Instalação](#Instalação)
