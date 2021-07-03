@@ -8,12 +8,12 @@ Released: Julho 2017
 
 Abaixo o escopo das  funcionalidades que espero desenvolver:
 
-ABA no Webtrees - OK
-Conectar WS MyHeritage - Pendente
-Recuperar e tratar dados - Pendente
-Tela  comparando os registros - Pendente
-Gravaçao - Pendente
-Envio de Dados ao MyHeritage - Pendente
+*   ABA no Webtrees - OK
+*   Conectar WS MyHeritage - Pendente
+*   Recuperar e tratar dados - Pendente
+*   Tela  comparando os registros - Pendente
+*   Gravaçao - Pendente
+*   Envio de Dados ao MyHeritage - Pendente
 
 <a name="Descrição"></a>
 
